@@ -36,14 +36,14 @@
 
 ---
 
-## Dos (short)
+## Dos
 - Keep commits small and independent.
 - Write messages that explain **why** the change was made.
 - Use `git diff --staged` to review staged changes before committing.
 - Use branches when working on features or experiments.
 - Prefer new commits over rewriting history for fixes that can be recorded.
 
-## Don'ts (short)
+## Don'ts
 - Don’t cram unrelated changes into one commit.
 - Don’t use Git as a daily backup for meaningless checkpoints.
 - Avoid large `git commit --amend` changes for important modifications — amends should be for tiny fixes (typos, forgotten files).

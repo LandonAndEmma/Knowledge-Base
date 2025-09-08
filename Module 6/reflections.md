@@ -17,7 +17,7 @@ git commit -m "Add user-email validation" -m "Ensure emails are normalized and v
 
 - Avoided `--amend` except to correct a single missing file or typo in the previous commit.
 
-## Questions for instructor (optional)
+## Questions for instructor
 - None
 
 ## Personal takeaways
